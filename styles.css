@@ -1,0 +1,10 @@
+/** bonoldie.github.io styles **/
+
+.main-container {
+   background-color: #fbeec1;
+   color: #343a40;
+}
+
+.links-container {
+   justify-content: space-around;
+}
